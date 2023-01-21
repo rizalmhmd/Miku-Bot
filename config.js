@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // User premium
-global.prems = ["6288221417330","6288216335309","62882008912405","6282158224415","6288289748137","6282128660045","628990952883","6281325191564","6283857357711"]
+global.prems = ["6281333154367","6281392128956"]
 global.mods = []
 
 global.APIs = { // API Prefix
@@ -66,26 +66,26 @@ global.listmenu = "simple"
 global.setfitur = "simple"
 
 global.textreply = "Assalamualaikum%20bang"
-global.namabot = 'Miku'
-global.botname = 'MIKU BOT'
-global.botName = "Miku-Bot" // Tampilan Reply
-global.wm = '© Miku-Bot Created By A.Farel.E ࿐'
+global.namabot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.botname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.botName = "𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕" // Tampilan Reply
+global.wm = '© 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 Created By 𝚉𝚊𝚕𝚕 ࿐'
 global.titlebot = '🌱 ┊ RPG WhatsApp Bot'
 global.namafile = 'kosong' // kosong
-global.owner = ['6288216335309','62882008912405']
-global.nomorowner = '6288216335309'
+global.owner = ['6281333154367','6281392128956']
+global.nomorowner = '6281333154367'
 global.gcbot = 'https://chat.whatsapp.com/IDnmu9AI3eW0yE0xiKUq16'
 global.ytowner = 'https://s.id/chyoutubeku'
-global.packname = 'A.Farel.E'
-global.author = 'Miku-Bot'
+global.packname = '𝚉𝚊𝚕𝚕'
+global.author = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 
 global.conns = []
 
 /*============== SOCIAL ==============*/
 // Kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
+global.sig = 'https://instagram.com/zallzall02'
 global.sgc = 'https://chat.whatsapp.com/IDnmu9AI3eW0yE0xiKUq16'
-global.sgh = 'https://github.com/FarelE'
+global.sgh = 'https://github.com/rizalmhmd'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
